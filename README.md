@@ -14,6 +14,7 @@
 * Ctrl+Shift+T - search for java class
 * Ctrl+Shift+R - search for any file
 * Ctrl+Shift+O - organize imports
+* Ctrl+Shift+F - format your code.
 * Alt+Left - go to last edit location (including last file)
 * Alt+Right - go to next edit location (inlcuding next file)
 * Ctrl+M - maximize/minimize current view
