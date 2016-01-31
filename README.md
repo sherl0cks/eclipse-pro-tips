@@ -10,6 +10,7 @@
 * [Enable line numbers](http://blog.grimeymedia.com/show-line-numbers-in-java-eclipse-kepler-version/) You can also right click in the left margin
 
 ## Hot Keys
+* Ctrl+Shift+G - generate getters/setters/constructures
 * Ctrl+H - search all files for text
 * Ctrl+Shift+T - search for java class
 * Ctrl+Shift+R - search for any file
