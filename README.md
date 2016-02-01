@@ -3,7 +3,11 @@
 ## Plugins
 * [Syntax Highlting the default is for noobs] (http://eclipsecolorthemes.org/)
 
+## Code Completion
+This is one of the key reasons to use an IDE like eclipse.
 
+* [How to reduce the default code completion delay.](http://blog.vogella.com/2013/05/30/eclipse-papercut-13-reduce-delay-in-code-completion/)I set my to 0
+* You can also use Ctrl+Space if you prefer
 
 ## Text Editors
 
